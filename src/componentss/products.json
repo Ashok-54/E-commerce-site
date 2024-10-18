@@ -1,0 +1,550 @@
+[
+{
+	"_id" : "636a3dfe8e793faeb29f9dbe",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Trousers",
+	"description" : "L",
+	"review" : 12,
+    "img" :"https://img.freepik.com/premium-photo/white-summer-shorts_1009902-23293.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+{
+	"_id" : "636a3d988e793faeb29f9dba",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jeans",
+	"description" : "M",
+	"review" : 44,
+    "img" :"https://img.freepik.com/premium-photo/stack-blue-jeans-gray-background_308079-3206.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3d458e793faeb29f9db6",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Activewear",
+	"description" : "M",
+	"review" : 62,
+    "img" :"https://img.freepik.com/free-photo/woman-practice-pilates-yoga-gym_1303-23149.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3cdd8e793faeb29f9db2",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Skirts",
+	"description" : "L",
+	"review" : 78,
+    "img" :"https://img.freepik.com/premium-photo/beautiful-young-woman-wedding-dress-beautiful-makeup-hairstyle-happy-bride_78492-92.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3c818e793faeb29f9dae",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Tops",
+	"description" : "L",
+	"review" : 86,
+    "img" :"https://img.freepik.com/free-photo/young-beautiful-woman-casual-outfit-isolated-studio_1303-20526.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3c068e793faeb29f9daa",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jumpers",
+	"description" : "L",
+	"review" : 62,
+    "img" :"https://img.freepik.com/premium-photo/photo-young-man-hands-touch-head-ache-migraine-unhealthy-corona-virus-isolated-grey-color-background_525549-7760.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3bb68e793faeb29f9da6",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Masks",
+	"description" : "M",
+	"review" : 92,
+    "img" :"https://img.freepik.com/free-vector/disposable-surgical-mask-set-covid-19-awareness-vector_53876-161512.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3b5d8e793faeb29f9da2",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Shoes",
+	"description" : "S",
+	"review" : 133,
+    "img" :"https://img.freepik.com/premium-photo/new-pair-white-sneakers-isolated-white_93675-134696.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3af58e793faeb29f9d9e",
+	"price" : 400,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Jewellery",
+	"description" : "L",
+	"review" : 172,
+    "img" :"https://img.freepik.com/premium-photo/jewelry-photography_808279-7.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a3a8f8e793faeb29f9d9b",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Shirts",
+	"name" : "Swimwear",
+	"description" : "L",
+	"review" : 112,
+    "img" :"https://img.freepik.com/free-photo/overhead-shot-cheerful-curly-haired-woman-wears-snorkeling-mask-green-swimsuit-makes-peace-gesture-eye-poses-striped-towel-beach-with-different-items-around-summer-time-concept_273609-62200.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a34048e793faeb29f9d98",
+	"price" : 250,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Hair Accessories ",
+	"description" : "L",
+	"review" : 182,
+    "img" :"https://img.freepik.com/free-photo/ecological-beauty-products-arrangement-top-view_23-2149552379.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a33ae8e793faeb29f9d95",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"name" : "Baby Boy Costumes ",
+	"description" : "S",
+	"category" : "Trousers",
+	"review" : 356,
+    "img" :"https://img.freepik.com/free-photo/two-little-baby-girls-sitting-autumn-leaves_155003-14491.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a329f8e793faeb29f9d92",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Baby Costumes",
+	"description" : "S",
+	"review" : 512,
+    "img" :"https://img.freepik.com/premium-photo/little-sailor-traveler-sits-anchor-circle-suitcases_237672-435.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a2db88e793faeb29f9d8e",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Nightwear",
+	"description" : "L ",
+	"review" : 812,
+    "img" :"https://img.freepik.com/premium-photo/cheerful-women-fighting-with-pillows-sleepover_251859-14454.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a2ca28e793faeb29f9d8a",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Belts",
+	"description" : "L",
+	"review" : 42,
+    "img" :"https://img.freepik.com/free-vector/classic-brown-leather-belts-flat-vector-illustrations-set-collection-straps-with-metal-brass-steel-buckle-rings-isolated-white-background-fashion-accessories-haberdashery-concept_74855-22987.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a2c298e793faeb29f9d86",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Teen Girl Jeans",
+	"description" : "M",
+	"review" : 79,
+    "img" :"https://img.freepik.com/free-photo/stylish-girl_1157-8260.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a2b838e793faeb29f9d82",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "BabyBoy Accessories",
+	"description" : "S",
+	"review" : 37,
+    "img" :"https://img.freepik.com/free-photo/top-view-cute-little-baby-accesories-with-copy-space_23-2148415480.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a2af18e793faeb29f9d7e",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Hoodies",
+	"description" : "L",
+	"review" : 97,
+    "img" :"https://img.freepik.com/free-psd/red-hooded-sweatshirt-seen-from-front-back-isolated-transparent-background_125540-6354.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a2a7f8e793faeb29f9d7a",
+	"price" : 900,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"name" : "Jewellery ",
+	"description" : "L",
+	"review" : 55,
+    "img" :"https://img.freepik.com/premium-photo/indian-traditional-jewellery_136354-6544.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a24ab8e793faeb29f9d76",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "Trousers",
+	"description" : "L",
+	"name" : "Tie",
+	"review" : 85,
+    "img" :"https://img.freepik.com/premium-photo/blue-tie-isolated-white-background_1091875-925.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a210c8e793faeb29f9d72",
+	"price" : 1500,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Suits",
+	"description" : "L",
+	"review" : 30,
+    "img" :"https://img.freepik.com/premium-photo/stylish-indian-business-man-suit-glasses-posed-winter-day-outdoor-with-mobile-phone-hand_627829-1562.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a20a08e793faeb29f9d6f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Boots",
+	"description" : "L",
+	"review" : 75,
+    "img" :"https://img.freepik.com/premium-photo/pair-brown-shoes-table_786255-21046.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a203c8e793faeb29f9d6c",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Dresses",
+	"description" : "S",
+	"review" : 327,
+    "img" :"https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a1fc78e793faeb29f9d69",
+	"price" : 900,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Shirts",
+	"description" : "L",
+	"review" : 377,
+    "img" :"https://img.freepik.com/free-photo/still-life-with-classic-shirts_23-2150828634.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a1f6b8e793faeb29f9d66",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Trousers",
+	"description" : "L",
+	"review" : 867,
+    "img" :"https://img.freepik.com/free-photo/men-s-ankle-sneakers-white-street-style-apparel-shoot_53876-119733.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a10cc8e793faeb29f9d5f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Trainers",
+	"description" : "L",
+	"review" : 88,
+    "img" :"https://img.freepik.com/free-photo/woman-doing-workout-gym-with-trainer_1303-25221.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a0ebc8e793faeb29f9d5b",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Shorts",
+	"description" : "L",
+	"review" : 67,
+    "img" :"https://img.freepik.com/premium-vector/set-sport-shorts_38893-479.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a0e518e793faeb29f9d57",
+	"price" : 150,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Socks",
+	"description" : "L",
+	"review" : 90,
+    "img" :"https://img.freepik.com/free-photo/cotton-clean-pair-sock-white_1203-6061.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a0df68e793faeb29f9d53",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Nightwear",
+	"description" : "M",
+	"review" : 79,
+    "img" :"https://img.freepik.com/free-photo/positive-curly-girl-pajama-standing-confident-pose-portrait-relaxed-female-model-wears-red-night-suit-posing-with-arms-crossed_197531-21722.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a0d6c8e793faeb29f9d4f",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "Watches",
+	"name" : "Baby Swimwear",
+	"description" : "S",
+	"review" : 557,
+    "img" :"https://img.freepik.com/free-photo/swimsuit-yellow-background-isolated_1303-13537.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a0ca18e793faeb29f9d4b",
+	"price" : 1200,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Hoodies",
+	"description" : "L",
+	"review" : 237,
+    "img" :"https://img.freepik.com/free-psd/red-hooded-sweatshirt-seen-from-front-back-isolated-transparent-background_125540-6354.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a0b848e793faeb29f9d47",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Baby Sunglasses ",
+	"description" : "S",
+	"review" : 60,
+    "img" :"https://img.freepik.com/free-photo/little-blond-girl-with-sunglasses_1157-815.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a0b128e793faeb29f9d43",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Bags",
+	"description" : "M",
+	"review" : 32,
+    "img" :"https://img.freepik.com/free-photo/bag-hanging-from-furniture-item-indoors_23-2151073506.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a0a978e793faeb29f9d3f",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Jewellery ",
+	"description" : "M",
+	"review" : 46,
+    "img" :"https://img.freepik.com/premium-photo/gold-jwellery_1057199-9.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a0a208e793faeb29f9d3c",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Suits",
+	"description" : "L",
+	"review" : 7,
+    "img" :"https://img.freepik.com/premium-photo/stylish-indian-business-man-suit-glasses-posed-winter-day-outdoor-with-mobile-phone-hand_627829-1562.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a09bf8e793faeb29f9d39",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Loafers",
+	"description" : "L",
+	"review" : 227,
+    "img" :"https://img.freepik.com/free-photo/man-wearing-brown-leather-loafer-shoes_53876-102231.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a09288e793faeb29f9d36",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Kimonos",
+	"description" : "M",
+	"review" : 345,
+    "img" :"https://img.freepik.com/free-photo/bamboo-forest-asian-woman-wearing-japanese-traditional-kimono-bamboo-forest-kyoto-japan_335224-218.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a08a88e793faeb29f9d33",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Dresses ",
+	"description" : "M",
+	"review" : 87,
+    "img" :"https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a08608e793faeb29f9d30",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Shorts",
+	"description" : "S",
+	"review" : 78,
+    "img" :"https://img.freepik.com/premium-vector/set-sport-shorts_38893-479.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a07ff8e793faeb29f9d2d",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "Footwear",
+	"name" : "Jeans",
+	"description" : "L",
+	"review" : 85,
+    "img" :"https://img.freepik.com/premium-photo/stack-blue-jeans-gray-background_308079-3206.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a06448e793faeb29f9d27",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Jumpers",
+	"description" : "L",
+	"review" : 95,
+    "img" :"https://img.freepik.com/free-photo/confident-bearded-macho-man-looks-pleased-has-friendly-kind-grin-face-wears-round-spectacles-pink-jumper_273609-51174.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a05d28e793faeb29f9d23",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Shirts",
+	"description" : "L",
+	"review" : 77,
+    "img" :"https://img.freepik.com/premium-psd/man-wearing-dress-shirt-mockup_23-2149533551.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a055d8e793faeb29f9d1f",
+	"price" : 1200,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Loungewear",
+	"description" : "L",
+	"review" : 197,
+    "img" :"https://img.freepik.com/premium-photo/rear-view-woman-sitting-bed-home_1048944-23393953.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "636a04c08e793faeb29f9d1b",
+	"price" : 600,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "T-Shirts",
+	"description" : "M",
+	"review" : 37,
+    "img" :"https://img.freepik.com/free-photo/shirt-mockup-concept-with-plain-clothing_23-2149448751.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "636a04348e793faeb29f9d17",
+	"price" : 350,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Girls Hats",
+	"description" : "M",
+	"review" : 27,
+    "img" :"https://img.freepik.com/free-photo/portrait-beautiful-young-woman-holding-hat-head-with-his-hand_23-2148130317.jpg?ga=GA1.1.1302893096.1721382059&semt=ais_user"
+},
+
+{
+	"_id" : "6369fe578e793faeb29f9d13",
+	"price" : 1000,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Sunglasses",
+	"description" : "M",
+	"review" : 87,
+    "img" :"https://img.freepik.com/free-photo/glasses-with-slightly-rounded-frame_23-2150670762.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "6369fce88e793faeb29f9d0f",
+	"price" : 300,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Belts",
+	"description" : "L",
+	"review" : 237,
+    "img" :"https://img.freepik.com/free-vector/classic-brown-leather-belts-flat-vector-illustrations-set-collection-straps-with-metal-brass-steel-buckle-rings-isolated-white-background-fashion-accessories-haberdashery-concept_74855-22987.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "6369fc198e793faeb29f9d0b",
+	"price" : 800,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Sleepwear",
+	"description" : "S",
+	"review" : 58,
+    "img" :"https://img.freepik.com/free-photo/lovable-young-woman-wears-pink-night-suit-socks-smiling-indoor-photo-enthusiastic-laughing-girls-joking-while-posing-bedroom_197531-21601.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "6369fb398e793faeb29f9d07",
+	"price" : 500,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Jackets ",
+	"description" : "L",
+	"review" : 72,
+    "img" :"https://img.freepik.com/free-photo/still-life-rendering-jackets-display_23-2149745031.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+},
+
+{
+	"_id" : "6369fa568e793faeb29f9d03",
+	"price" : 700,
+	"stockQuantity" : 1,
+	"category" : "T-Shirts",
+	"name" : "Costumes",
+	"description" : "S",
+	"review" : 71,
+    "img" :"https://img.freepik.com/free-photo/young-beautiful-woman-casual-outfit-isolated-studio_1303-20526.jpg?ga=GA1.1.1302893096.1721382059&semt=sph"
+}
+]
